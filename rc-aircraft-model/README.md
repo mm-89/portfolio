@@ -7,7 +7,7 @@ This repository documents the entire design process: from aerodynamic calculatio
 
 This project was born out of curiosity and a passion for aviation. The goal: build a flyable RC airplane without using pre-made kits or copying existing models. All design choices — wing profile, tail sizing, motor, electronics — were guided by aeronautical references and adjusted to suit amateur-level materials and tools.
 
-![Plane Prototype](fuselage.jpg)
+![Plane Prototype](fuselage.png)
 
 ## Circuits
 
