@@ -50,5 +50,5 @@ The current state of the code is not up-to-date. You can still run the code and 
 
 The repository is available \[here](https://github.com/mm-89/sundial).
 
-The concept I followed to develop the tool is reported \[in this pdf](./basic\_concept.pdf).
+The concept I followed to develop the tool is reported \[in this pdf](basic\_concept.pdf).
 
