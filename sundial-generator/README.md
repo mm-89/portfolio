@@ -2,9 +2,9 @@
 
 This project is a sundial drawing tool developed to explore the geometric and astronomical principles behind different types of sundials. It calculates hour lines for several sundial types based on user input, using spherical astronomy and projection geometry.
 
+![Testo alternativo](esempio_output.png)
+
 ## 🌍 Overview
-
-
 
 Currently, the program supports:
 
@@ -45,8 +45,6 @@ The code is very simple because the most important part of the development was a
 ## 🚀 Code
 
 The current state of the code is not up-to-date. You can still run the code and have an horizontal sundial. If you want the full version you can contact me.
-
-
 
 The repository is available [here](https://github.com/mm-89/sundial).
 
