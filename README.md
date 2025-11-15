@@ -8,33 +8,31 @@ Here you’ll find a selection of personal and research projects spanning **data
 
 ## Projects
 
-### 📊 [Light Exposure Model](light-exposure-model)
+### 📊 Light Exposure Model
 **Description:** A computational model to estimate light exposure on surfaces or tissues, based on environmental and geometric parameters.  
 **Repository:** [light-exposure-model](light-exposure-model)
 
 ---
 
-### 👁️ [Ocular Irradiance Model](ocular-irradiance-model)
+### 👁️ Ocular Irradiance Model
 **Description:** A 3D Monte Carlo-based model to predict UV and visible light irradiance on ocular tissues, including physiological data integration.  
 **Repository:** [ocular-irradiance-model](ocular-irradiance-model)
 
 ---
 
-### 📸 [Pinhole Camera Project](pinhole-project)
+### 📸 Pinhole Camera Project
 **Description:** A full analog photography project. Build a functional pinhole camera, expose and develop large-format film, and create cyanotype prints.  
-**Repository:** [pinhole-project](pinhole-project)  
-**Gallery:** [📁 Images](pinhole-project/pictures/)  
-**Full Technical Report:** [📄 PDF](pinhole-project/pinhole_camera.pdf)
+**Repository:** [pinhole-project](pinhole-project)
 
 ---
 
-### ✈️ [RC Aircraft Model](rc-aircraft-model)
+### ✈️ RC Aircraft Model
 **Description:** Simulation and modeling of remote-controlled aircraft dynamics, including aerodynamic analysis and flight stability.  
 **Repository:** [rc-aircraft-model](rc-aircraft-model)
 
 ---
 
-### 🌞 [Sundial Generator](sundial-generator)
+### 🌞 Sundial Generator
 **Description:** A script/tool to generate accurate sundial designs based on geographic location, time, and orientation.  
 **Repository:** [sundial-generator](sundial-generator)
 
