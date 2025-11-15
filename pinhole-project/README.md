@@ -2,13 +2,14 @@
 
 This repository documents a personal experiment in fully analog photography: building a functional pinhole camera from scratch, exposing and developing large-format film, and producing a final cyanotype print.
 
-📄 Full technical report can be read [HERE](pnhole_camera.pdf).
-📸 Images can be seen [HERE](pictures/).
+📄 Full technical report can be read ![HERE](pinhole_camera.pdf).
 
-<div align="center">
+📸 Images can be seen ![HERE](pictures/).
+
+<p align="center">
   <img src="pictures/front_shutter_open.png" width="200"/>
   <img src="pictures/print.png" width="200"/>
-</div>
+</p>
 
 🎯 ## Purpose
 
