@@ -2,13 +2,13 @@
 
 This repository contains the link to the source code and model used in the article:
 
-- link the the official repository [HERE]([https://github.com/mm-89](https://github.com/mm-89/OcularAmbientIrradianceModel))
+- link the the official repository [HERE](https://github.com/mm-89/OcularAmbientIrradianceModel)
 
 **"A model of ocular ambient irradiance at any head orientation"**  
 _Michele Marro, Laurent Moccozet, David Vernez_  
 Computers in Biology and Medicine (Elsevier), 2024  
 
-DOI: [10.1016/j.compbiomed.2024.108119]([https://doi.org/10.1016/j.compbiomed.2024.108119](https://doi.org/10.1016/j.compbiomed.2024.108903))
+DOI: [10.1016/j.compbiomed.2024.108119](https://doi.org/10.1016/j.compbiomed.2024.108903)
 
 ## Overview
 
