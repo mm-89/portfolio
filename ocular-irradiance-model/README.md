@@ -1,11 +1,14 @@
 # Ocular Irradiance Model
 
-This repository contains the source code and model used in the article:
+This repository contains the link to the source code and model used in the article:
+
+- link the the official repository [HERE]([https://github.com/mm-89](https://github.com/mm-89/OcularAmbientIrradianceModel))
 
 **"A model of ocular ambient irradiance at any head orientation"**  
 _Michele Marro, Laurent Moccozet, David Vernez_  
 Computers in Biology and Medicine (Elsevier), 2024  
-📄 [Read the article](https://doi.org/10.1016/j.compbiomed.2024.108903)
+
+DOI: [10.1016/j.compbiomed.2024.108119]([https://doi.org/10.1016/j.compbiomed.2024.108119](https://doi.org/10.1016/j.compbiomed.2024.108903))
 
 ## Overview
 
@@ -28,9 +31,3 @@ This model estimates the amount of ambient ultraviolet irradiance reaching the o
 - Compute **ocular irradiance** and **radiant exposure**
 - Can be integrated with radiative transfer models (e.g. libRadtran)
 - Supports simulations over time and orientation
-
-## Quick Start
-
-```bash
-pip install -r requirements.txt
-python example.py
